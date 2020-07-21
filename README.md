@@ -8,5 +8,4 @@
 - 🤔 I’m on Twitter https://twitter.com/Xellarix
 - 💬 Ask me about Visual studio extensions, C#, linq, Asp.Net Core, Cinema, Cosmology
 - 📫 How to reach me: Xellarix@gmail.com
-- 😄 Pronouns: 8d4b0cc2-8174-4730-9816-7d4b77e8d65e / 8d4b0cc2-8174-4730-9816-7d4b77e8d55m / 8d4b0cc2-8174-4730-9816-7d4b77e8d65s (I'm gonna be offended if you get the GUID wrong ;))
-- ⚡ Fun fact: My facial expression for concentration, frustration, amusement etc is almost the same...
+- 😄 Fun fact: My facial is homogeneous (sometimes), that is expression for concentration, frustration, amusement etc is almost the same...
