@@ -8,4 +8,4 @@
 - 🤔 I’m on Twitter https://twitter.com/Xellarix
 - 💬 Ask me about Visual studio extensions, C#, linq, Asp.Net Core, Cinema, Cosmology
 - 📫 How to reach me: Xellarix@gmail.com
-- 😄 Fun fact: My facial expression is homogeneous (sometimes), that is expression for concentration, frustration, amusement etc is almost the same...
+- 😄 Fun fact: I'm not angry, it's just my face.
