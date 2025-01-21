@@ -3,7 +3,7 @@
 -->
 
 - 🔭 I’m Hamid Mosalla (Arman is my nickname)
-- 🌱 I’ve blogged here for nearly 9 years https://hamidmosalla.com/
+- 🌱 I’ve blogged here for nearly 10 years https://hamidmosalla.com/
 - 👯 I’m looking to collaborate on any message based system, nservicebus, DDD.
 - 🤔 I’m on Twitter https://twitter.com/Xellarix
 - 💬 Ask me about Visual studio extensions, C#, linq, Asp.Net Core, Cinema, Cosmology
